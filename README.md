@@ -1,3 +1,4 @@
+<<<<<< HEAD
 # Version-Controlled DevOps Project
 
 ## Objective
@@ -39,7 +40,7 @@ devops-git-project/
 └── documentation.md
 
 This is specifically required by your internship task. :contentReference[oaicite:2]{index=2}
-
+i
 Create:
 
 ```text
@@ -55,6 +56,25 @@ Thumbs.db
 
 # Logs
 *.log
+# TASK-4 — Version-Controlled DevOps Project
 
-# Temporary files
-*.tmp
+## Objective
+
+Manage a DevOps project using Git best practices.
+
+## Tools Used
+
+- Git
+- GitHub
+- VS Code
+
+## Git Workflow
+
+This project demonstrates the following Git workflow:
+
+```text
+main
+  ↑
+dev
+  ↑
+feature/project-setup
